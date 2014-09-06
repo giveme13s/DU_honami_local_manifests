@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/TheMuppets/" name="tm" />
+  <project name="proprietary_vendor_sony.git" path="vendor/sony" remote="tm" revision="cm-11.0" />
+  <project name="android_device_sony_honami" path="device/sony/honami" remote="cm" revision="cm-11.0" />
+  <project name="android_device_sony_rhine-common" path="device/sony/rhine-common" remote="cm" revision="cm-11.0" />
+  <project name="android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="cm" revision="cm-11.0" />
+  <project name="android_device_qcom_common" path="device/qcom/common" remote="cm" revision="cm-11.0" />
+  <project name="android_device_sony_common" path="device/sony/common" remote="cm" revision="cm-11.0" />
+  <project name="android_device_sony_qcom-common" path="device/sony/qcom-common" remote="cm" revision="cm-11.0" />
+  <project name="android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="cm" revision="cm-11.0" />
+  <project name="android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="cm" revision="cm-11.0" />
+</manifest>
